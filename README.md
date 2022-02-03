@@ -74,5 +74,5 @@ Here are some ideas to get you started:
   <img width='90%' src='https://leandrofritzler.com.ar/images/portfolio/gallery/g-effects.jpg' alt='Experimental Instagram Effects' />
 </a>
 
-### 📹 Some insights about the languages I work on 
+### 📹 Some insights about the technologies I work with
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzlerleandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
