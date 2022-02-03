@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 ### 📹 I'm currently working on 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fritzlerleandro&repo=birras-v2)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fritzlerleandro&repo=OfertasArgentas)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📹 You can find more by taking a look at [my portfolio](https://leandrofritzler.com.ar/#works)
 
@@ -62,7 +61,7 @@ Here are some ideas to get you started:
   <img width='45%' src='https://leandrofritzler.com.ar/images/portfolio/gallery/g-OficinaAmbulante.jpg' alt='Custom Wordpress Theme for Oficina Ambulante' />
 </a>
 <a href='https://mokoi.com.ar' target='_blank'>
-  <img width='90%' src='https://leandrofritzler.com.ar/images/portfolio/gallery/g-mokoi.jpg' alt='Brand Adaptatin for Biocosmetics e-commerce site' />
+  <img width='90%' src='https://leandrofritzler.com.ar/images/portfolio/gallery/g-mokoi.jpg' alt='Brand Adaptation for Biocosmetics e-commerce site' />
 </a>
 <a href='https://youtu.be/rNjJwhBNWOk' target='_blank'>
   <img width='45%' src='https://leandrofritzler.com.ar/images/portfolio/gallery/g-drinkco.jpg' alt='Branded instagram effect' />
