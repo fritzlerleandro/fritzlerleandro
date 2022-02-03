@@ -49,8 +49,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### 📹 I'm currently working on 
+### 📹 I'm currently working on (and hoping to release soon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fritzlerleandro&repo=birras-v2)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fritzlerleandro&repo=OfertasArgentas)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📹 You can find more by taking a look at [my portfolio](https://leandrofritzler.com.ar/#works)
 
