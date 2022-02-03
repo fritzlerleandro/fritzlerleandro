@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fritzlerleandro&repo=birras-v2)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fritzlerleandro&repo=OfertasArgentas)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📹 You can find more by taking a look at [my portfolio](https://leandrofritzler.com.ar/#works)
+### 📹 You can find more projects by taking a look at [my portfolio](https://leandrofritzler.com.ar/#works)
 
 <a align="center" href='https://leandrofritzler.com.ar/#works&gid=1&pid=2' target='_blank'>
   <img width='45%' src='https://leandrofritzler.com.ar/images/portfolio/gallery/g-LaBirra.jpg' alt='Beer Menu Web App' />
